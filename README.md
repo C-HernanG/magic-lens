@@ -2,7 +2,7 @@
 
 ![Magic Lens Logo](./assets/banner.png)
 
-**Magic Lens** is a cross-platform desktop application for Magic: The Gathering that enables users to scan cards via webcam, manage a local collection, and generate AI-powered decks based on their collection. All operations are performed locally, ensuring user data privacy and offline accessibility.
+**Magic Lens** is a cross-platform application for Magic: The Gathering that enables users to scan cards via webcam, manage a local collection, and generate AI-powered decks based on their collection. All operations are performed locally, ensuring user data privacy and offline accessibility.
 
 ## ✨ Features
 - **Card Scanning:** Real-time webcam-based card detection and identification.
