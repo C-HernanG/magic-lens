@@ -10,6 +10,12 @@
 - **AI Deck Builder:** Generate deck suggestions based on your collection and card synergy.
 - **Cross-Platform:** Compatible with macOS, Windows, and Linux.
 
+## 🚀 Roadmap
+- **Iteration 1:** Project Setup & Core Structure.
+- **Iteration 2:** Card Scanning Functionality.
+- **Iteration 3:** AI-Powered Deck Builder Implementation. 
+- **Iteration 4:** User Interface Development.
+
 ## 🚧 On Development
 This project is currently under development. Features and functionality may change as progress continues.
 
