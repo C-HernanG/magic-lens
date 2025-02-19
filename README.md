@@ -10,5 +10,8 @@
 - **AI Deck Builder:** Generate deck suggestions based on your collection and card synergy.
 - **Cross-Platform:** Compatible with macOS, Windows, and Linux.
 
+## 🚧 On Development
+This project is currently under development. Features and functionality may change as progress continues.
+
 ## ⚖️ License
 This project is for personal portfolio purposes only. It is not licensed for public use, modification, or distribution.
