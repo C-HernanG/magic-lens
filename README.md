@@ -1,5 +1,7 @@
 # 🪄 Magic Lens – MTG Card Scanner & AI Deck Builder
 
+![Magic Lens Logo](./assets/banner.png)
+
 **Magic Lens** is a cross-platform desktop application for Magic: The Gathering that allows users to scan cards via webcam, manage a local collection, and build decks based on their owned cards. All operations are performed locally, ensuring user data remains private.
 
 ## ✨ Features
