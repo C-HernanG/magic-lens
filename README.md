@@ -1,4 +1,4 @@
-![Magic Lens Banner](assets/banner.png)
+![Magic Lens Banner](assets/banner-white.png)
 
 **Magic Lens** is a lightweight and efficient library for detecting **Magic: The Gathering** cards from images and webcam feeds, optimized for low computational cost. Designed for real-time recognition, it allows seamless integration into applications like deck builders, collection managers, and other MTG-related tools.
 
