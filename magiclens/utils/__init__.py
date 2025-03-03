@@ -1,10 +1,6 @@
 """
-utils/__init__.py
------------------
-Re-exports the utilities for the project.
-
-Usage:
-    from utils import *
+Utility modules for Magic Lens.
+This includes image preprocessing functions and shape detection helpers.
 """
 
 from .shape_detection import fourier_shape_detection
